@@ -1,0 +1,16 @@
+git init
+git add
+git commit -m ''
+git config user.name -g 'username'
+git config user.email -g 'email'
+git remote add origin'url'(get it from repositry)
+git push -u origin master
+
+//to add a file again(add-config-push)
+staging:
+git add filename
+git add.
+
+push:
+git push -u origin master
+
